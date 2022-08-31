@@ -1,0 +1,15 @@
+D:\C#_3\Seminar_7\DZ_47\bin\Debug\net6.0\DZ_47.exe
+D:\C#_3\Seminar_7\DZ_47\bin\Debug\net6.0\DZ_47.deps.json
+D:\C#_3\Seminar_7\DZ_47\bin\Debug\net6.0\DZ_47.runtimeconfig.json
+D:\C#_3\Seminar_7\DZ_47\bin\Debug\net6.0\DZ_47.dll
+D:\C#_3\Seminar_7\DZ_47\bin\Debug\net6.0\DZ_47.pdb
+D:\C#_3\Seminar_7\DZ_47\obj\Debug\net6.0\DZ_47.csproj.AssemblyReference.cache
+D:\C#_3\Seminar_7\DZ_47\obj\Debug\net6.0\DZ_47.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#_3\Seminar_7\DZ_47\obj\Debug\net6.0\DZ_47.AssemblyInfoInputs.cache
+D:\C#_3\Seminar_7\DZ_47\obj\Debug\net6.0\DZ_47.AssemblyInfo.cs
+D:\C#_3\Seminar_7\DZ_47\obj\Debug\net6.0\DZ_47.csproj.CoreCompileInputs.cache
+D:\C#_3\Seminar_7\DZ_47\obj\Debug\net6.0\DZ_47.dll
+D:\C#_3\Seminar_7\DZ_47\obj\Debug\net6.0\refint\DZ_47.dll
+D:\C#_3\Seminar_7\DZ_47\obj\Debug\net6.0\DZ_47.pdb
+D:\C#_3\Seminar_7\DZ_47\obj\Debug\net6.0\DZ_47.genruntimeconfig.cache
+D:\C#_3\Seminar_7\DZ_47\obj\Debug\net6.0\ref\DZ_47.dll
